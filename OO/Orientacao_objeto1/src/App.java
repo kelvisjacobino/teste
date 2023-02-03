@@ -21,7 +21,7 @@ public class App {
         y.a = sc.nextDouble();
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
-        //teste
+        //teste mais um teste
 
         double areax = x.area();
         double areay = y.area();
